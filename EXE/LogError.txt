@@ -1,3 +1,4 @@
 APP启动了！
 MainWindow启动了！
 初始化系统设置
+APP退出了！
